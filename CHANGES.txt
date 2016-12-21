@@ -1,0 +1,8 @@
+2016-12-21:
+* Add `pptx_example/` example of map on the Typedtree
+* use NATDYNLINKOPTS to generate `ocamlopt.dyn`
+
+2016-12-20:
+* Add `ppx_example/` example of map on the Parsetree (like ppx)
+* Add `hello/` example
+* Add `ocamlopt.dyn` to fix plugin problem with `ocamlopt.opt` in 4.04.0
